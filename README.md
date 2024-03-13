@@ -1,6 +1,6 @@
 # INTERNATIONAL-STUDENT-CENTRE
  
- 👉🏻 ISC - University of Windsor
+ 👍🏻 ISC - University of Windsor
  
 ---
  
