@@ -1,5 +1,6 @@
 # INTERNATIONAL-STUDENT-CENTRE
- ISC - University of Windsor
+ 
+ 👉🏻 ISC - University of Windsor
  
 ---
  
@@ -21,6 +22,6 @@
 
 ---
 
-<p align="center"> <b> 👉🏻 University of Windsor 👈🏻 <b> </p>
+<p align="center"> <b> 👉🏻 International Student Centre - University of Windsor 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/MENG-ELECTRICAL-AND-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To MEng ECE ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To MEng ECE ✌🏻</p>
