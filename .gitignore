@@ -1,0 +1,16 @@
+# INTERNATIONAL-STUDENT-CENTRE - Resource Hub Repository
+# Specialized .gitignore for ISC resource archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+~$*
