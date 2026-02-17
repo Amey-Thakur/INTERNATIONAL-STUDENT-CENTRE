@@ -41,7 +41,7 @@ The **International Student Centre (ISC)** repository serves as a centralized di
 
 ### Repository Purpose
 
-This repository represents a curated collection of resources, instructional videos, and orientation materials. The primary motivation for maintaining this archive is to ensure that vital information regarding tenant rights, scam prevention, and campus services remains accessible for continuous reference.
+This repository represents a curated collection of resources, instructional videos, and orientation materials. The primary motivation for creating and maintaining this archive is simple yet profound: **to ensure that vital information regarding tenant rights, scam prevention, and campus services remains accessible for continuous reference**.
 
 **Why this repository exists:**
 
