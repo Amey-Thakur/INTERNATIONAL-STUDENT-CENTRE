@@ -63,6 +63,11 @@ This repository represents a curated collection of resources, instructional vide
 
 A structured inventory of essential support modules categorized by functional domain to facilitate rapid navigation and information retrieval.
 
+[![Website](https://img.shields.io/badge/Website-Resource--Hub-005596?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amey-thakur.github.io/INTERNATIONAL-STUDENT-CENTRE/)
+
+> [!TIP]
+> **Interactive Experience**: For a more streamlined and scholarly browsing experience, including enhanced navigation and direct access to all archived documents, visit the official [International Student Centre Web Portal](https://amey-thakur.github.io/INTERNATIONAL-STUDENT-CENTRE/).
+
 ### Support Modules
 
 | # | Module | Category | Description |
