@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>International Student Centre - Resource Archive</title>
+    <style>
+        :root {
+            --uwindsor-blue: #005596;
+            --uwindsor-gold: #FFCE00;
+            --text-dark: #333;
+            --bg-light: #f4f7f9;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-dark);
+            background-color: var(--bg-light);
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: white;
+            padding: 40px 20px;
+            text-align: center;
+            border-bottom: 4px solid var(--uwindsor-gold);
+        }
+
+        header img {
+            max-width: 400px;
+            height: auto;
+            margin-bottom: 20px;
+        }
+
+        header h1 {
+            color: var(--uwindsor-blue);
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        header p {
+            font-style: italic;
+            color: #666;
+            font-size: 1.1rem;
+        }
+
+        main {
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .intro {
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 5px solid var(--uwindsor-blue);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            margin-bottom: 40px;
+        }
+
+        .category {
+            margin-bottom: 40px;
+        }
+
+        .category h2 {
+            color: var(--uwindsor-blue);
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+            display: flex;
+            align-items: center;
+        }
+
+        .category h2 span {
+            margin-right: 15px;
+            font-size: 1.5rem;
+        }
+
+        .resource-list {
+            list-style: none;
+            padding: 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 15px;
+        }
+
+        .resource-list li {
+            background: white;
+            padding: 15px;
+            border-radius: 6px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+
+        .resource-list li:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .resource-list a {
+            text-decoration: none;
+            color: var(--uwindsor-blue);
+            font-weight: 500;
+        }
+
+        .resource-list a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            background: #fff;
+            border-top: 1px solid #ddd;
+            margin-top: 60px;
+        }
+
+        footer a {
+            color: var(--uwindsor-blue);
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.8rem; }
+            header img { max-width: 280px; }
+            .resource-list { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="https://raw.githubusercontent.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/main/university-of-windsor-logo.png" alt="University of Windsor">
+    <h1>International Student Centre</h1>
+    <p>University of Windsor · Resource Hub & Orientation Archive</p>
+</header>
+
+<main>
+    <section class="intro">
+        <strong>Archive Overview:</strong> This centralized digital repository contains essential records, instructional guides, and safety protocols curated for the international student community at the University of Windsor.
+    </section>
+
+    <!-- Academic Support -->
+    <section class="category">
+        <h2><span>📚</span> Academic Support</h2>
+        <ul class="resource-list">
+            <li><a href="Academic Support/Skills To Enhance Personal Success - resources and information/UWindsor STEPS Website/UWindsor STEPS Website.html">STEPS Website Archive</a></li>
+            <li><a href="Academic Support/Writing Support Desk/Announcements from the Writing Support Desk/Announcements from the Writing Support Desk.html">WSD Announcements</a></li>
+            <li><a href="Academic Support/Writing Support Desk/UWindsor Website/UWindsor Website.html">Writing Support Desk Website</a></li>
+        </ul>
+    </section>
+
+    <!-- Campus Safety -->
+    <section class="category">
+        <h2><span>🛡️</span> Campus Safety</h2>
+        <ul class="resource-list">
+            <li><a href="Campus Safety/Emergency and Classroom Evacuation Procedures/Emergency and Classroom Evacuation Procedures.html">Evacuation Procedures</a></li>
+            <li><a href="Campus Safety/Fire Safety/Fire Safety.html">Fire Safety Protocols</a></li>
+            <li><a href="Campus Safety/Keep.meSAFE App - Counselling Service/Keep.meSAFE App - Counselling Service.html">Keep.meSAFE Counselling</a></li>
+            <li><a href="Campus Safety/Safe Lancer App/Safe Lancer App.html">Safe Lancer App Information</a></li>
+            <li><a href="Campus Safety/Walksafe/Walksafe.html">Walksafe Program</a></li>
+        </ul>
+    </section>
+
+    <!-- General Resources -->
+    <section class="category">
+        <h2><span>🔗</span> General Resources</h2>
+        <ul class="resource-list">
+            <li><a href="General Resources/Landlord Tenant Resources/Landlord Tenant Resources.html">Landlord & Tenant Resources</a></li>
+        </ul>
+    </section>
+
+    <!-- Health and Medical Insurance -->
+    <section class="category">
+        <h2><span>🏥</span> Health & Medical Insurance</h2>
+        <ul class="resource-list">
+            <li><a href="Health and Medical Insurance/After Graduation/Post Graduation Health Insurance/Post Graduation Health Insurance.html">Post-Graduation Insurance</a></li>
+            <li><a href="Health and Medical Insurance/ELIP/ELIP Health Insurance.html">ELIP Health Insurance</a></li>
+            <li><a href="Health and Medical Insurance/Green Shield Canada Basic Health Insurance OHIP Equivalent/Green Shield OHIP Plan/Green Shield OHIP Equivalent Health Insurance Plan.html">Green Shield OHIP Equivalent Plan</a></li>
+            <li><a href="Health and Medical Insurance/Green Shield Canada Basic Health Insurance OHIP Equivalent/Health Insurance Claim Form/Health Insurance Claim Form.html">Insurance Claim Form</a></li>
+            <li><a href="Health and Medical Insurance/Green Shield Canada Basic Health Insurance OHIP Equivalent/How to Claim a GSC OHIP/How to Claim a GSC OHIP Equivalent Health Service .html">How to Claim GSC Services</a></li>
+            <li><a href="Health and Medical Insurance/Green Shield Canada Basic Health Insurance OHIP Equivalent/List of Local Clinics/List of Local Clinics.html">Local Clinics Directory</a></li>
+            <li><a href="Health and Medical Insurance/Supplemental Health Insurance/Full Time Undergraduate Students/UWSA Supplemental Insurance.html">UWSA Supplemental (Undergrad)</a></li>
+            <li><a href="Health and Medical Insurance/Supplemental Health Insurance/Graduate Students/GSS Supplemental Insurance.html">GSS Supplemental (Graduate)</a></li>
+            <li><a href="Health and Medical Insurance/Supplemental Health Insurance/Part Time Undergraduate Students/OPUS Supplemental Insurance.html">OPUS Supplemental (Part-time)</a></li>
+        </ul>
+    </section>
+
+    <!-- Health and Wellness -->
+    <section class="category">
+        <h2><span>🧘</span> Health & Wellness</h2>
+        <ul class="resource-list">
+            <li><a href="Health and Wellness/ISC Nurses - Presentation Resources/ISC Nurses - Presentation Resources.html">Nurse Presentation Resources</a></li>
+            <li><a href="Health and Wellness/Preparing for a Canadian Winter Recording -November 9, 2021/Preparing for a Canadian Winter Recording -Novembe.html">Canadian Winter Preparation Guide</a></li>
+        </ul>
+    </section>
+
+    <!-- Immigration and Visas -->
+    <section class="category">
+        <h2><span>🛂</span> Immigration & Visas</h2>
+        <ul class="resource-list">
+            <li><a href="Immigration and Visas/Co-op Work Permit/Co-opInternship Work Permit Checklist and Template.html">Co-op Work Permit Checklist</a></li>
+            <li><a href="Immigration and Visas/Express Entry Workshop/Express Entry Workshop.html">Express Entry Workshop Notes</a></li>
+            <li><a href="Immigration and Visas/Immigration Advising.html">Immigration Advising Portal</a></li>
+            <li><a href="Immigration and Visas/Post Graduation Work Permit/Post-graduation Work Permit Checklist  Template.html">PGWP Checklist & Template</a></li>
+            <li><a href="Immigration and Visas/Social Insurance Number/Social Insurance Number.html">Social Insurance Number Guide</a></li>
+            <li><a href="Immigration and Visas/Study Permit Extension/Outside Canada Study Permit Application - IMPORTANT.html">Study Permit (Outside Canada)</a></li>
+            <li><a href="Immigration and Visas/Study Permit Extension/Study Permit Checklist and Template/Study Permit Checklist and Template.html">Study Permit Checklist</a></li>
+            <li><a href="Immigration and Visas/Study Permit Extension/What if my study permit is expired and I never applied to extend it.html">Expired Permit Guidance</a></li>
+            <li><a href="Immigration and Visas/Study Permit Extension/When does my study permit expire.html">Permit Expiry Analysis</a></li>
+            <li><a href="Immigration and Visas/Temporary Resident Visa (TRV)/TRV Checklist and Template (for Students)/TRV Checklist and Template (for Students).html">TRV Checklist (Students)</a></li>
+            <li><a href="Immigration and Visas/Temporary Resident Visa (TRV)/Temporary Resident Visa (TRV) for PGWP Workers/Temporary Resident Visa (TRV) for PGWP Workers.html">TRV Checklist (PGWP Workers)</a></li>
+            <li><a href="Immigration and Visas/US Visa/US Visa Info Worshop Handouts.html">US Visa Workshop Handouts</a></li>
+        </ul>
+    </section>
+
+    <!-- Protect Yourself from Scams and Tenant Rights -->
+    <section class="category">
+        <h2><span>🚫</span> Scams & Tenant Rights</h2>
+        <ul class="resource-list">
+            <li><a href="Protect Yourself from Scams and Tenant Rights/Avoid being a victim of scams and tenant rights/Avoid being a victim of scams and tenant rights.html">Scam Prevention Guide</a></li>
+            <li><a href="Protect Yourself from Scams and Tenant Rights/Scams Resource Guide/Scams Resource Guide.html">Scams Resource Inventory</a></li>
+        </ul>
+    </section>
+
+    <!-- Orientation Archive -->
+    <section class="category">
+        <h2><span>❄️</span> Orientation Archive</h2>
+        <ul class="resource-list">
+            <li><a href="Winter 2023 Orientation/Recordings and Resources from Winter 2023 Orientation/Recordings and Resources from Summer 2022 Orientat.html">Winter 2023 Orientation Recordings</a></li>
+        </ul>
+    </section>
+</main>
+
+<footer>
+    <p>Modified with scholarly intent by Amey Thakur</p>
+    <a href="https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING">🎓 Back to MEng Computer Engineering Repository</a>
+</footer>
+
+</body>
+</html>
