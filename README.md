@@ -64,11 +64,11 @@ This repository represents a curated collection of resources, instructional vide
 A structured inventory of essential support modules categorized by functional domain to facilitate rapid navigation and information retrieval.
 
 <div align="center">
-  [![Web Portal](https://img.shields.io/badge/Live-Resource%20Hub-FFCE00)](https://amey-thakur.github.io/INTERNATIONAL-STUDENT-CENTRE/)
+  [![Live](https://img.shields.io/badge/Live-Resource%20Hub-FFCE00)](https://amey-thakur.github.io/INTERNATIONAL-STUDENT-CENTRE/)
 </div>
 
 > [!TIP]
-> Use the [Web Portal](https://amey-thakur.github.io/INTERNATIONAL-STUDENT-CENTRE/) for a streamlined and interactive view of all archived resources.
+> Use the [Live Portal](https://amey-thakur.github.io/INTERNATIONAL-STUDENT-CENTRE/) for a streamlined and interactive view of all archived resources.
 
 ### Support Modules
 
