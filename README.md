@@ -64,7 +64,9 @@ This repository represents a curated collection of resources, instructional vide
 A structured inventory of essential support modules categorized by functional domain to facilitate rapid navigation and information retrieval.
 
 <div align="center">
-  [![Live](https://img.shields.io/badge/Live-Resource%20Hub-FFCE00)](https://amey-thakur.github.io/INTERNATIONAL-STUDENT-CENTRE/)
+
+[![Live](https://img.shields.io/badge/Live-Resource%20Hub-FFCE00?labelColor=555)](https://amey-thakur.github.io/INTERNATIONAL-STUDENT-CENTRE/)
+
 </div>
 
 > [!TIP]
