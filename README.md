@@ -70,7 +70,7 @@ A structured inventory of essential support modules categorized by functional do
 | 2 | [Campus Safety](Campus%20Safety/) | **Security** | Protocols and resources for maintaining a safe campus experience. |
 | 3 | [General Resources](General%20Resources/) | **Onboarding** | Broad spectrum information for new and returning international students. |
 | 4 | [Health and Medical Insurance](Health%20and%20Medical%20Insurance/) | **Health** | Detailed records on insurance coverage and medical services. |
-| 5 | [Health and Wellness](Health%20and%20Wellness/) | **Well-being** | Resources for mental health, physical fitness, and holistic support. |
+| 5 | 🧘🏻 [Health and Wellness](Health%20and%20Wellness/) | **Well-being** | Resources for mental health, physical fitness, and holistic support. |
 | 6 | [Immigration and Visas](Immigration%20and%20Visas/) | **Regulatory** | Essential guidance on permit maintenance and immigration compliance. |
 | 7 | [Protect Yourself from Scams and Tenant Rights](Protect%20Yourself%20from%20Scams%20and%20Tenant%20Rights/) | **Advocacy** | Vital information on avoiding fraud and understanding residential rights. |
 
@@ -154,7 +154,7 @@ Special thanks to the student mentors and peer support networks whose shared exp
 
   <br>
 
-  🤝🏻 [Engineering International Student Advising](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING) &nbsp;·&nbsp; 🧘🏻 **[Health and Wellness](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE/tree/main/Health%20and%20Wellness)** &nbsp;·&nbsp; ✍🏻 [Writing Support](https://github.com/Amey-Thakur/WRITING-SUPPORT)
+  🤝🏻 [Engineering International Student Advising](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING) &nbsp;·&nbsp; ✍🏻 [Writing Support](https://github.com/Amey-Thakur/WRITING-SUPPORT)
 
 </div>
 
