@@ -143,13 +143,6 @@ Special thanks to the student mentors and peer support networks whose shared exp
 
 ---
 
-> [!IMPORTANT]
-> **Additional Scholarly Resources**
->
-> 🤝🏻 [Engineering International Student Advising](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING) &nbsp;·&nbsp; ✍🏻 [Writing Support](https://github.com/Amey-Thakur/WRITING-SUPPORT)
-
----
-
 <!-- =========================================================================================
                                      FOOTER SECTION
      ========================================================================================= -->
