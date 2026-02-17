@@ -110,6 +110,31 @@
             text-decoration: underline;
         }
 
+        .btn-meng {
+            background-color: var(--uwindsor-gold);
+            color: var(--uwindsor-blue);
+            padding: 12px 30px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1rem;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .btn-meng:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+            text-decoration: none;
+        }
+
+        .btn-meng span {
+            margin-right: 10px;
+        }
+
         footer {
             text-align: center;
             padding: 40px 20px;
@@ -153,9 +178,8 @@
         <p style="font-style: italic; color: #666; font-size: 1.2rem; margin-top: 10px;">University of Windsor ·
             Resource Hub & Orientation Archive</p>
         <div style="margin-top: 25px;">
-            <a href="https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING"
-                style="background-color: var(--uwindsor-gold); color: var(--uwindsor-blue); padding: 12px 30px; border-radius: 50px; text-decoration: none; font-weight: bold; font-size: 1.1rem; display: inline-flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s;">
-                <span style="margin-right: 10px;">🎓</span> MEng Computer Engineering
+            <a href="https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING" class="btn-meng">
+                <span>🎓</span> MEng Computer Engineering
             </a>
         </div>
     </header>
