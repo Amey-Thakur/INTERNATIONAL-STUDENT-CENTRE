@@ -137,10 +137,11 @@ This repository and its curated structure are made available under the **Creativ
 ## About This Repository
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
-**Institutional Context**: [University of Windsor](https://www.uwindsor.ca)  
-**Target Community**: International Students & Graduate Scholars
+**Academic Journey**: Master of Engineering in Computer Engineering (2023-2024)  
+**Institution**: [University of Windsor](https://www.uwindsor.ca), Windsor, Ontario  
+**Faculty**: [Faculty of Engineering](https://www.uwindsor.ca/engineering/)
 
-This repository represents a commitment to supporting the international student journey through organized documentation and resource curation.
+This repository represents a commitment to supporting the international student journey through organized documentation and resource curation. All materials have been carefully archived to serve as a reliable reference for the international student community.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
