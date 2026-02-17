@@ -64,7 +64,9 @@ This repository represents a curated collection of resources, instructional vide
 A structured inventory of essential support modules categorized by functional domain to facilitate rapid navigation and information retrieval.
 
 <div align="center">
-  [![Website](https://img.shields.io/badge/Website-Live-005596.svg)](https://amey-thakur.github.io/INTERNATIONAL-STUDENT-CENTRE/)
+  <a href="https://amey-thakur.github.io/INTERNATIONAL-STUDENT-CENTRE/">
+    <img src="https://img.shields.io/badge/Resource%20Hub-Live-lightgrey?labelColor=FFCE00" alt="Resource Hub Live">
+  </a>
 </div>
 
 > [!TIP]
