@@ -16,7 +16,7 @@
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   [![University](https://img.shields.io/badge/University-Windsor-005596.svg)](https://www.uwindsor.ca)
   [![MEng Computer Engineering](https://img.shields.io/badge/MEng-Computer%20Engineering-FFCE00.svg)](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
-  [![Support](https://img.shields.io/badge/Support-International%20Students-blue.svg)](https://www.uwindsor.ca/international-student-centre/)
+  [![Support](https://img.shields.io/badge/Support-International%20Students-brightgreen.svg)](https://www.uwindsor.ca/international-student-centre/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
   <!-- Short Description -->
