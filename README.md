@@ -154,7 +154,7 @@ Special thanks to the student mentors and peer support networks whose shared exp
 
   <br>
 
-  🤝🏻 [Engineering International Student Advising](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING) &nbsp;·&nbsp; ✍🏻 [Writing Support](https://github.com/Amey-Thakur/WRITING-SUPPORT)
+  🤝🏻 [Engineering International Student Advising](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING) &nbsp;·&nbsp; 🧘🏻 **[Health and Wellness](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE/tree/main/Health%20and%20Wellness)** &nbsp;·&nbsp; ✍🏻 [Writing Support](https://github.com/Amey-Thakur/WRITING-SUPPORT)
 
 </div>
 
