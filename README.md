@@ -150,7 +150,7 @@ Special thanks to the student mentors and peer support networks whose shared exp
   <!-- Footer Navigation -->
   [↑ Back to Top](#international-student-centre)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Orientation Archive](#orientation-archive) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [LICENSE](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Orientation Archive](#orientation-archive) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
