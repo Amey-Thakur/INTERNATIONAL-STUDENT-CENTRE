@@ -65,7 +65,7 @@ A structured inventory of essential support modules categorized by functional do
 ### Support Modules
 
 | # | Module | Category | Description |
-|:-:|:---|:---|:---|
+|:-:|:---|:---:|:---|
 | 1 | [Academic Support](Academic%20Support/) | **Academic** | Resources for learning centers, libraries, and academic integration. |
 | 2 | [Campus Safety](Campus%20Safety/) | **Security** | Protocols and resources for maintaining a safe campus experience. |
 | 3 | [General Resources](General%20Resources/) | **Onboarding** | Broad spectrum information for new and returning international students. |
@@ -83,7 +83,7 @@ Archival records and multimedia resources from the specialized orientation sessi
 ### Session Documentation
 
 | # | Event | Archival Link | Content Overview |
-|:-:|:---|:---|:---|
+|:-:|:---|:---:|:---|
 | 1 | **Winter 2023 Orientation** | [View Resources](Winter%202023%20Orientation/Recordings%20and%20Resources%20from%20Winter%202023%20Orientation/) | Full recording and presentation materials from the Jan 2023 session. |
 
 ---
