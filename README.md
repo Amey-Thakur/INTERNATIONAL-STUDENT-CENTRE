@@ -91,10 +91,10 @@ A prioritized collection of high-value instructional materials and regulatory ch
  
 | # | Resource | Category | Access |
 | :-: | :--- | :---: | :---: |
-| 1 | **Preparing for a Canadian Winter** | Climate Safety | [View PPTX](Health%20and%20Wellness/ISC%20Nurses%20-%20Presentation%20Resources/Preparing%20for%20a%20Canadian%20Winter%20Powerpoint.pptx) |
-| 2 | **Tenant Rights & Law** | Housing Advocacy | [View PPTX](Health%20and%20Wellness/ISC%20Nurses%20-%20Presentation%20Resources/Tenant%20Presentation%20-%20Law.pptx) |
-| 3 | **Post-Graduation Work Permit (PGWP) Checklist** | Immigration | [View PDF](Immigration%20and%20Visas/Post%20Graduation%20Work%20Permit/PGWP%20Checklist.pdf) |
-| 4 | **Study Permit Extension Checklist** | Regulatory | [View PDF](Immigration%20and%20Visas/Study%20Permit%20Extension/Study%20Permit%20Checklist%20and%20Template/Checklist_Study%20Permit_2021_New.pdf) |
+| 1 | **Preparing for a Canadian Winter** | Climate Safety | [View](Health%20and%20Wellness/ISC%20Nurses%20-%20Presentation%20Resources/Preparing%20for%20a%20Canadian%20Winter%20Powerpoint.pptx) &middot; [View](Health%20and%20Wellness/ISC%20Nurses%20-%20Presentation%20Resources/Preparing%20for%20a%20Canadian%20Winter%20Powerpoint.pdf) |
+| 2 | **Tenant Rights & Law** | Housing Advocacy | [View](Health%20and%20Wellness/ISC%20Nurses%20-%20Presentation%20Resources/Tenant%20Presentation%20-%20Law.pptx) &middot; [View](Health%20and%20Wellness/ISC%20Nurses%20-%20Presentation%20Resources/Tenant%20Presentation%20-%20Law.pdf) |
+| 3 | **Post-Graduation Work Permit (PGWP) Checklist** | Immigration | [View](Immigration%20and%20Visas/Post%20Graduation%20Work%20Permit/PGWP%20Checklist.pdf) |
+| 4 | **Study Permit Extension Checklist** | Regulatory | [View](Immigration%20and%20Visas/Study%20Permit%20Extension/Study%20Permit%20Checklist%20and%20Template/Checklist_Study%20Permit_2021_New.pdf) |
  
 ---
 
