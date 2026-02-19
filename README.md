@@ -94,7 +94,7 @@ Archival records and multimedia resources from the specialized orientation sessi
 
 | # | Event | Archival Link | Content Overview |
 |:-:|:---|:---:|:---|
-| 1 | **Winter 2023 Orientation** | [View Resources](Winter%202023%20Orientation/Recordings%20and%20Resources%20from%20Winter%202023%20Orientation/) | Full recording and presentation materials from the Jan 2023 session. |
+| 1 | **Winter 2023** Orientation | [View Resources](Winter%202023%20Orientation/Recordings%20and%20Resources%20from%20Winter%202023%20Orientation/) | Full recording and presentation materials from the Jan 2023 session. |
 
 ---
 
@@ -147,9 +147,9 @@ This repository represents a commitment to supporting the international student 
 
 ### Acknowledgments
 
-Grateful acknowledgment to the **International Student Centre (ISC)** staff and the **University of Windsor** administration for providing the foundational resources and orientation sessions that made this archive possible.
+Grateful acknowledgment to the **International Student Centre (ISC)** staff and the **University of Windsor** administration for their dedicated effort in providing foundational resources and conducting comprehensive orientation sessions. Their commitment to student success and the facilitation of a smooth transition for the international community provided the essential materials that made this scholarly archive possible.
 
-Special thanks to the student mentors and peer support networks whose shared experiences contribute to the collective knowledge of this hub.
+Special thanks to the **student mentors** and **peer support networks** whose shared experiences and proactive engagement contribute meaningfully to the collective knowledge preserved within this resource hub.
 
 ---
 
