@@ -84,7 +84,6 @@ A structured inventory of essential support modules categorized by functional do
 | 6 | [Immigration and Visas](Immigration%20and%20Visas/) | **Regulatory** | Essential guidance on permit maintenance and immigration compliance. |
 | 7 | [Protect Yourself from Scams and Tenant Rights](Protect%20Yourself%20from%20Scams%20and%20Tenant%20Rights/) | **Advocacy** | Vital information on avoiding fraud and understanding residential rights. |
 
----
  
 ### Essential Documentation & Checklists
  
