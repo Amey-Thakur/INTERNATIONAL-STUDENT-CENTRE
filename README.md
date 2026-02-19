@@ -25,7 +25,7 @@
   ---
 
   <!-- Navigation Links -->
-  [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Orientation Archive](#orientation-archive) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Essential Documentation](#essential-documentation--checklists) &nbsp;·&nbsp; [Orientation Archive](#orientation-archive) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -85,6 +85,19 @@ A structured inventory of essential support modules categorized by functional do
 | 7 | [Protect Yourself from Scams and Tenant Rights](Protect%20Yourself%20from%20Scams%20and%20Tenant%20Rights/) | **Advocacy** | Vital information on avoiding fraud and understanding residential rights. |
 
 ---
+ 
+### Essential Documentation & Checklists
+ 
+A prioritized collection of high-value instructional materials and regulatory checklists exposed for rapid reference.
+ 
+| # | Resource | Category | Access |
+| :-: | :--- | :---: | :---: |
+| 1 | **Preparing for a Canadian Winter** | Climate Safety | [View PPTX](Health%20and%20Wellness/ISC%20Nurses%20-%20Presentation%20Resources/Preparing%20for%20a%20Canadian%20Winter%20Powerpoint.pptx) |
+| 2 | **Tenant Rights & Law** | Housing Advocacy | [View PPTX](Health%20and%20Wellness/ISC%20Nurses%20-%20Presentation%20Resources/Tenant%20Presentation%20-%20Law.pptx) |
+| 3 | **Post-Graduation Work Permit (PGWP) Checklist** | Immigration | [View PDF](Immigration%20and%20Visas/Post%20Graduation%20Work%20Permit/PGWP%20Checklist.pdf) |
+| 4 | **Study Permit Extension Checklist** | Regulatory | [View PDF](Immigration%20and%20Visas/Study%20Permit%20Extension/Study%20Permit%20Checklist%20and%20Template/Checklist_Study%20Permit_2021_New.pdf) |
+ 
+---
 
 ## Orientation Archive
 
@@ -94,7 +107,7 @@ Archival records and multimedia resources from the specialized orientation sessi
 
 | # | Event | Archival Link | Content Overview |
 |:-:|:---|:---:|:---|
-| 1 | **Winter 2023** Orientation | [View Resources](Winter%202023%20Orientation/Recordings%20and%20Resources%20from%20Winter%202023%20Orientation/) | Full recording and presentation materials from the Jan 2023 session. |
+| 1 | **Winter 2023** Orientation | [View Resources](Winter%202023%20Orientation/Recordings%20and%20Resources%20from%20Winter%202023%20Orientation/) &middot; [View Recording](Winter%202023%20Orientation/Recordings%20and%20Resources%20from%20Winter%202023%20Orientation/Recordings%20and%20Resources%20from%20Summer%202022%20Orientat.html) | Full recording and presentation materials from the Jan 2023 session. |
 
 ---
 
@@ -161,7 +174,7 @@ Special thanks to the **student mentors** and **peer support networks** whose sh
   <!-- Footer Navigation -->
   [↑ Back to Top](#international-student-centre)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Orientation Archive](#orientation-archive) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Essential Documentation](#essential-documentation--checklists) &nbsp;·&nbsp; [Orientation Archive](#orientation-archive) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
