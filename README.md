@@ -45,10 +45,10 @@ This repository represents a curated collection of resources, instructional vide
 
 **Why this repository exists:**
 
-- **Resource Accessibility**: To maintain organized access to essential university and community resources
-- **Student Integration**: To support the successful academic and social integration of international students
-- **Knowledge Preservation**: To archive critical orientation materials and health safety directives
-- **Safety Awareness**: To provide a dedicated portal for information on scam prevention and tenant rights
+- **Resource Accessibility**: To maintain organized access to essential university and community resources.
+- **Student Integration**: To support the successful academic and social integration of international students.
+- **Knowledge Preservation**: To archive critical orientation materials and health safety directives.
+- **Safety Awareness**: To provide a dedicated portal for information on scam prevention and tenant rights.
 
 > [!NOTE]
 > All materials were compiled and organized to serve as a supportive resource hub for the international student community during the 2023 academic year.
@@ -187,8 +187,8 @@ Special thanks to the **student mentors** and **peer support networks** whose sh
 
   ### 🎓 [MEng Computer Engineering Repository](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
 
-  **Computer Engineering (M.Eng) - University of Windsor**
+  **Computer Engineering (M.Eng.) - University of Windsor**
 
-  *An archival record of **graduate-level research** and **advanced engineering coursework**.*
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
