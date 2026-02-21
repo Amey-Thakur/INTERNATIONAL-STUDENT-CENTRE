@@ -51,7 +51,7 @@ This repository represents a curated collection of resources, instructional vide
 - **Safety Awareness**: To provide a dedicated portal for information on scam prevention and tenant rights.
 
 > [!NOTE]
-> All materials were compiled and organized to serve as a supportive resource hub for the international student community during the 2023 academic year.
+> All materials were compiled and organized to serve as a supportive resource hub for the international student community during the **2023-2024** academic year.
 
 ---
 
