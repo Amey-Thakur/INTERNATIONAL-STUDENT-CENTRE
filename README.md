@@ -16,8 +16,8 @@
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   [![University](https://img.shields.io/badge/University-Windsor-005596.svg)](https://www.uwindsor.ca)
   [![MEng Computer Engineering](https://img.shields.io/badge/MEng-Computer%20Engineering-FFCE00.svg)](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
-  [![Support](https://img.shields.io/badge/Support-International%20Students-brightgreen.svg)](https://www.uwindsor.ca/international-student-centre/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![Support](https://img.shields.io/badge/Support-International%20Students-58585B.svg)](https://www.uwindsor.ca/international-student-centre/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   <!-- Short Description -->
   **A comprehensive archival repository documenting essential resources, campus safety protocols, health support, and orientation materials curated for the international student community at the University of Windsor.**
@@ -65,7 +65,7 @@ A structured inventory of essential support modules categorized by functional do
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/Live-Resource%20Hub-FFCE00?labelColor=555)](https://amey-thakur.github.io/INTERNATIONAL-STUDENT-CENTRE/)
+[![Live](https://img.shields.io/badge/Live-Resource%20Hub-00B8D9?labelColor=555)](https://amey-thakur.github.io/INTERNATIONAL-STUDENT-CENTRE/)
 
 </div>
 
@@ -192,3 +192,4 @@ Special thanks to the **student mentors** and **peer support networks** whose sh
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
+
