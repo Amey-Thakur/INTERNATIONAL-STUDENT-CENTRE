@@ -1,0 +1,40 @@
+# International Student Centre
+
+> International Student Centre (ISC) – University of Windsor | Orientation
+> Resources & Student Support Hub
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Institution: University of Windsor
+Programme: M.Eng Computer Engineering
+Licence: CC BY 4.0, attribution required
+Repository created: 18 January 2023
+Work dated: 1 January 2023
+
+## What is in this repository
+
+- Academic Support, 3 files
+- Campus Safety, 13 files
+- General Resources, 4 files
+- Health and Medical Insurance, 20 files
+- Health and Wellness, 11 files
+- Immigration and Visas, 39 files
+- Protect Yourself from Scams and Tenant Rights, 4 files
+- Winter 2023 Orientation, 1 file
+- Orientation Ticket.pdf
+- University-of-Windsor-Shield.png
+- index.html
+
+## Subject terms
+
+campus-safety, canada, health-and-wellness, immigration,
+international-student-centre, master-of-engineering, meng, meng-ece,
+orientation-archive, resource-hub, student-resources, student-support,
+study-permit, tenant-rights, university-of-windsor, uwindsor
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE
+- Degree index, every subject and project: https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING
+- Project page: https://amey-thakur.github.io/INTERNATIONAL-STUDENT-CENTRE/
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/

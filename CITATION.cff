@@ -8,3 +8,7 @@ title: "INTERNATIONAL-STUDENT-CENTRE"
 version: 1.0.0
 date-released: 2023-01-01
 url: "https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE"
+identifiers:
+  - type: other
+    value: "2023-01-18"
+    description: "Date this repository was created on GitHub."
